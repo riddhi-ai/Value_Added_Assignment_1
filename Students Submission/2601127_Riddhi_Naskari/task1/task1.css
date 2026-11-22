@@ -1,0 +1,100 @@
+
+ 
+        .div1{
+             display: flex;
+             justify-content: space-between;
+             align-items: center;
+             }
+
+        .div2{
+             display: flex;
+             justify-content: space-between;
+             align-items: center;
+             margin-top: 30px;
+   
+        }
+
+        .div3 {
+                display: flex;
+                justify-content: space-around;
+                gap: 20px;
+                padding: 25px 20px;
+                background-color: #e0dbf6;
+}
+
+.image1 {
+    flex: 1;
+    background-color: white;
+    border: 1px solid #e8e3f5;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+   
+}
+
+.image1 img {
+    width: 45px;
+    height: 45px;
+    object-fit: contain;
+    
+}
+
+
+
+
+      
+        .div2 img{
+           width: 400px;
+           height: 400px;
+           margin-right: 50px;
+        }
+
+        .div1 a{
+            font-size: 18px;
+            color:gray;
+        text-decoration: none;
+        margin-left: 20px;
+        }
+
+        .div1 button{
+            background-color: blueviolet;
+            color: white;
+            width: 120px;
+            height: 40px;
+            border-radius: 5px;
+            border: none;
+        }
+
+        .div1 h3{
+            font-size: 20px;
+        }
+
+        .title{
+            margin-left: 50px;
+        }
+
+        .title h1{
+            font-size: 50px;
+            font-weight: bold;
+        }
+
+        .titlebutton1{
+            background-color: blueviolet;
+            color: white;
+            width: 150px;
+            height: 40px;
+            border-radius: 5px;
+            border: none;
+        }
+
+        .titlebutton2{
+            background-color: rgb(248, 246, 249);
+            color:blueviolet;
+            width: 150px;
+            height: 40px;
+            border-radius: 5px;
+            border:solid 1px blueviolet;
+        }
+
+        
+    
